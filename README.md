@@ -11,7 +11,7 @@ Laser shooter is chosen as the custom enemy type because I want to restrict the 
 
 ![](img/laser_shooter.jpg)
 
-The first island makes use of these features of the laser shooter. The player is supposed to move in a spiral path in order to avoid the beams. The player should separate the time of exposure under the beam among different laser shooters. The laser shooters also make it too dangerous to fly.
+The first island makes use of these features of the laser shooter. The player is supposed to move in a spiral path in order to avoid the beams. The player should separate the time of exposure under the beam among different laser shooters. The laser shooters also make it too dangerous to fly. The walls around one shooter form a safe area. After killing the laser shooter within the walls, no enemy can attack a player in the walls.
 
 The second island is intended for the player to pass through as quickly as possible. It separates the first island and the last two islands, so they don't interfere with each other. Therefore, this level is filled with mortars. A little bit of luck is also needed to pass this level, so the player needs to try multiple times.
 
